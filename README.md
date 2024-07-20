@@ -55,7 +55,7 @@ Here are some of the tools I use:
 I’m actively learning and expanding my expertise in web development with ASP.NET Core, mobile development, and data visualization, and I am dedicated to continuously enhancing my skills in these fields.
 
 ## ⚡ Fun Facts
-- 🎨 I believe coding is an art!
+- 🎨 I believe art is important in one's life!
 - 🎶 I like listening to underrated artist music.
 - 🌊 I enjoy the tranquility of the sea.
 - 📚 I love mystery and detective novels, especially by Agatha Christie, Arthur Conan Doyle, Anthony Horowitz, and Honobu Yonezawa.
